@@ -1,3 +1,11 @@
+*Please note that while I work for Blizzard Entertainment, this project was developed 
+on my personal time before I worked for Blizzard.  This project does not constitute an 
+official documentation of the `.dbc` file format (or the related formats), nor is it 
+an official mechanism by which to do data-mining. I will attempt to follow up with 
+the people who would make the kinds of decisions who might make it otherwise, but for
+now, you should assume that I don't know any more than anyone who doesn't work at 
+Blizzard, because I don't work on the Warcraft team. --@robpaveza, 1 Feb. 2016*
+
 # dbcexplorer #
 
 A C# reader and explorer of World of Warcraft game data files
